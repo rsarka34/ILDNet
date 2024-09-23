@@ -8,7 +8,6 @@ Interstitial lung disease (ILD) is a collection of pulmonary adventitious condit
 ![block_diag_ILD_updated](https://github.com/user-attachments/assets/2fc7c2d7-736a-476d-a3ce-984b2eb5de25)
 
 # Results
-![image](https://github.com/user-attachments/assets/61661dae-b46b-4ac6-9a4a-c2d84ea543d9)
-Fold-wise classification performance of ILDNet
+![image](https://github.com/user-attachments/assets/61661dae-b46b-4ac6-9a4a-c2d84ea543d9) Fold-wise classification performance of ILDNet
 
 
