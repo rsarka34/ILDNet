@@ -22,12 +22,12 @@ A. Roy and U. Satija, "ILDNet: A Novel Deep Learning Framework for Interstitial 
 
 @INPROCEEDINGS{10631581,
   author={Roy, Arka and Satija, Udit},\
-  booktitle={2024 International Conference on Signal Processing and Communications (SPCOM)}, \\
-  title={ILDNet: A Novel Deep Learning Framework for Interstitial Lung Disease Identification Using Respiratory Sounds}, \\
-  year={2024},\\
-  volume={},\\
-  number={},\\
-  pages={1-5},\\
+  booktitle={2024 International Conference on Signal Processing and Communications (SPCOM)}, \
+  title={ILDNet: A Novel Deep Learning Framework for Interstitial Lung Disease Identification Using Respiratory Sounds}, \
+  year={2024},\
+  volume={},\
+  number={},\
+  pages={1-5},\
   doi={10.1109/SPCOM60851.2024.10631581}}
 
 
