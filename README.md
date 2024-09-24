@@ -1,7 +1,8 @@
 # ILDNet
 **ILDNet: A Novel Deep Learning Framework for Interstitial Lung Disease Identification Using Respiratory Sounds**
 
-**Authors: Arka Roy, Udit Satija** 
+**Authors: Arka Roy, Udit Satija**
+
 [![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-blue)](https://ieeexplore.ieee.org/document/10631581)
 # Abstarct
 <p align="justify">
