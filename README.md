@@ -28,6 +28,7 @@ Interstitial lung disease (ILD) is a collection of pulmonary adventitious condit
 
 A. Roy and U. Satija, "ILDNet: A Novel Deep Learning Framework for Interstitial Lung Disease Identification Using Respiratory Sounds," *2024 International Conference on Signal Processing and Communications (SPCOM)*, Bangalore, India, 2024, pp. 1-5, doi: 10.1109/SPCOM60851.2024.10631581.
 
+```bibtex
 @INPROCEEDINGS{10631581,
   author={Roy, Arka and Satija, Udit},\
   booktitle={2024 International Conference on Signal Processing and Communications (SPCOM)}, \
