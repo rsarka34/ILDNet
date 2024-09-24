@@ -2,7 +2,8 @@
 **ILDNet: A Novel Deep Learning Framework for Interstitial Lung Disease Identification Using Respiratory Sounds**
 
 # Paper link
-[ILDNet (IEEEXplore)](https://ieeexplore.ieee.org/abstract/document/10631581)
+[![IEEE Xplore](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/IEEE_logo.svg/320px-IEEE_logo.svg.png)](https://ieeexplore.ieee.org/abstract/document/10631581)
+
 
 
 # Abstarct
