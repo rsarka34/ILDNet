@@ -10,8 +10,8 @@ Interstitial lung disease (ILD) is a collection of pulmonary adventitious condit
 
 # Dataset: BRACETS & KAUH
 
-- BRACETS Dataset: [BRACETS Dataset Link](https://data.mendeley.com/datasets/f43c7snks5/1)
-- KAUH Dataset: [KAUH Dataset Link](https://data.mendeley.com/datasets/jwyy9np4gv/3)
+- BRACETS Dataset:  [![Paper Link](https://img.shields.io/badge/BRACETS%20Data-Mendeley%20Data-yellow)](https://data.mendeley.com/datasets/f43c7snks5/1)   
+- KAUH Dataset: [![Paper Link](https://img.shields.io/badge/KAUH%20Data-Mendeley%20Data-yellow)](https://data.mendeley.com/datasets/jwyy9np4gv/3)
 
 ![image](https://github.com/user-attachments/assets/91e6c78c-ea29-4ea5-a286-759fe430a97c)
 
